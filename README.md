@@ -1,5 +1,5 @@
 # Virus
-A virus that changes the wallpaper, turns on the music, turns off the keyboard and mouse, and adds the virus itself to startup. After which the computer reboots and the virus is activated.
+A virus that changes the wallpaper, turns on music, disables the keyboard and mouse, and also adds the virus itself to startup. After which the computer restarts and the virus is activated. The virus destroys the MBR and also several sections in the registry
  
 
 DENIAL OF RESPONSIBILITY
