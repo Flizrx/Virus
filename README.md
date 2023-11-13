@@ -1,6 +1,6 @@
 # Virus
 A virus that changes the wallpaper, turns on the music, turns off the keyboard and mouse, and adds the virus itself to startup. After which the computer reboots and the virus is activated.
-
+ 
 
 DENIAL OF RESPONSIBILITY
 I am not responsible for your actions.
